@@ -6,7 +6,7 @@ Simulation and real-data validation code for the paper:
 > A Systematic Comparison of EKF, UKF, Adaptive EKF, and Joint EKF"**
 >
 > Luc Lam Thanh
-> Industrial University of Ho Chi Minh City (IUH) & Bosch Global Software Technologies Vietnam
+> Industrial University of Ho Chi Minh City (IUH)
 > ORCID: [0009-0005-2382-3696](https://orcid.org/0009-0005-2382-3696)
 
 ---
