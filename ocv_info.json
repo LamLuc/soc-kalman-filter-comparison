@@ -1,0 +1,8 @@
+{
+ "Q_discharge_Ah": 2.781186844445763,
+ "I_discharge_A": 0.15218067773167354,
+ "Q_charge_Ah": 2.969586919443179,
+ "I_charge_A": 0.14810359004197662,
+ "method": "average of charge and discharge",
+ "hysteresis_mV_at_50pct": 19.470013999478564
+}
